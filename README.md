@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruthvik-Yalpi
-- 👀 I’m interested in Web Development
+- 👀 I have keen interest in full stack development
 - 🌱 I’m currently learning Web Dev,DS and Algo in JAVA
 - 💞️ I’m looking to collaborate on Web Dev Projects
 - 📫 How to reach me :connect me through ruthvikyalpi@gmail.com
